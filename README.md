@@ -13,4 +13,4 @@ curl -sSfL https://raw.githubusercontent.com/mapi68/raspi-btop/master/raspi-btop
 ```
 
 ## Info
-For additional info about btop, go [here](https://github.com/aristocratos/btop)
+For additional info about btop++, go [here](https://github.com/aristocratos/btop)
