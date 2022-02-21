@@ -5,7 +5,7 @@
 * [Info](#info)
 
 ## Overview
-**A monitor of resources. This is only the site of .deb package of btop for Raspberry Pi**
+**A monitor of resources. This is only the site of .deb package of btop++ for Raspberry Pi**
 
 ## Installation
 ```bash
