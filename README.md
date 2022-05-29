@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [Installation](#installation)
+* [Uninstallation](#uninstallation)
 * [Info](#info)
 
 ## Overview
@@ -11,6 +12,11 @@
 ## Installation
 ```bash
 curl -sSfL https://raw.githubusercontent.com/mapi68/raspi-btop/master/raspi-btop-install | bash
+```
+
+## Uninstallation
+```bash
+sudo apt --purge remove raspi-btop -y
 ```
 
 ## Info
