@@ -6,7 +6,7 @@
 * [Info](#info)
 
 ## Overview
-**A monitor of resources. This is only the site of .deb package of btop++ optimised for Raspberry Pi OS 11 (bullseye)**
+**A monitor of resources. This is only the site of .deb package of btop++ optimised for Raspberry Pi OS 11 (bullseye) armhf (32bit)**
 ![raspi-btop](images/raspi-btop.png)
 
 ## Install
