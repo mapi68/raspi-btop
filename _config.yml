@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
-show_downloads: true
+title: raspi-btop
+description: A monitor of resources for Raspberry Pi
+show_downloads: false
